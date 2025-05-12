@@ -1,0 +1,14 @@
+agent_id: null
+compute_size: cpu-xs
+disk_size: "8"
+env_file: null
+env_type: values
+env_values: {}
+job_schedule: 0 * * * *
+job_subtype: ""
+job_type: job
+platform_url: https://platform.omegacloud.ai
+services: {}
+storage:
+  - arxiv
+task_id: null
